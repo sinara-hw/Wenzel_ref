@@ -32,7 +32,6 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs for Zotino
 LogFolderPath=
@@ -242,36 +241,31 @@ UniqueID=2558F9DA-C9AE-43C5-9A9E-E53791504C3A
 Description=Pletronics
 AllowFabrication=0
 ParameterCount=0
-VariationCount=32
+VariationCount=30
 Variation1=Designator=J2|UniqueId=\JPWEXVOQ\EUEACKES|Kind=1|AlternatePart= 
 Variation2=Designator=IC6|UniqueId=\JPWEXVOQ\FPFTOIHA|Kind=1|AlternatePart= 
 Variation3=Designator=J10|UniqueId=\XINCUUYP\AAVKWXIT|Kind=1|AlternatePart= 
-Variation4=Designator=L12|UniqueId=\XINCUUYP\HUFBITKI|Kind=1|AlternatePart= 
-Variation5=Designator=OSC2|UniqueId=\NCAWECZE\XAOUOPEE|Kind=1|AlternatePart= 
-Variation6=Designator=C41|UniqueId=\NCAWECZE\DGVPCXFC|Kind=1|AlternatePart= 
-Variation7=Designator=C48|UniqueId=\NCAWECZE\XNBMUXES|Kind=1|AlternatePart= 
-Variation8=Designator=R72|UniqueId=\XINCUUYP\PTCJHYJL|Kind=1|AlternatePart= 
-Variation9=Designator=L5|UniqueId=\XINCUUYP\GHIIZNSB|Kind=1|AlternatePart= 
-Variation10=Designator=L15|UniqueId=\XINCUUYP\QVOYWFRT|Kind=1|AlternatePart= 
-Variation11=Designator=R64|UniqueId=\XUTMALKY\UPAELWAE|Kind=0|AlternatePart= 
-Variation12=Designator=R7|UniqueId=\XINCUUYP\GMTDGWLG|Kind=1|AlternatePart= 
-Variation13=Designator=C125|UniqueId=\XINCUUYP\ESWNZXWT|Kind=1|AlternatePart= 
-Variation14=Designator=C124|UniqueId=\XINCUUYP\IUOWHUOT|Kind=1|AlternatePart= 
-Variation15=Designator=L10|UniqueId=\XINCUUYP\LZGYJYDM|Kind=1|AlternatePart= 
-Variation16=Designator=C72|UniqueId=\XINCUUYP\QSDOEACG|Kind=1|AlternatePart= 
-Variation17=Designator=R8|UniqueId=\XINCUUYP\DRWTPKGW|Kind=1|AlternatePart= 
-Variation18=Designator=R30|UniqueId=\XINCUUYP\AFHFIPWO|Kind=1|AlternatePart= 
-Variation19=Designator=C24|UniqueId=\XINCUUYP\WJYSXKUO|Kind=1|AlternatePart= 
-Variation20=Designator=C60|UniqueId=\XINCUUYP\ZKOYVXWI|Kind=1|AlternatePart= 
-Variation21=Designator=C105|UniqueId=\XINCUUYP\ELAWCZDJ|Kind=1|AlternatePart= 
-Variation22=Designator=L3|UniqueId=\XINCUUYP\MDDHMDUU|Kind=1|AlternatePart= 
-Variation23=Designator=C7|UniqueId=\XINCUUYP\IYGXUXEM|Kind=1|AlternatePart= 
-Variation24=Designator=U1|UniqueId=\XINCUUYP\VGXRPMWL|Kind=1|AlternatePart= 
-Variation25=Designator=IC20|UniqueId=\XUTMALKY\GXUXAPSK|Kind=1|AlternatePart= 
-Variation26=Designator=R167|UniqueId=\XINCUUYP\SBFFOOYH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case|VariantValue=0603
+Variation4=Designator=OSC2|UniqueId=\NCAWECZE\XAOUOPEE|Kind=1|AlternatePart= 
+Variation5=Designator=C41|UniqueId=\NCAWECZE\DGVPCXFC|Kind=1|AlternatePart= 
+Variation6=Designator=C48|UniqueId=\NCAWECZE\XNBMUXES|Kind=1|AlternatePart= 
+Variation7=Designator=R72|UniqueId=\XINCUUYP\PTCJHYJL|Kind=1|AlternatePart= 
+Variation8=Designator=C125|UniqueId=\XINCUUYP\ESWNZXWT|Kind=1|AlternatePart= 
+Variation9=Designator=C124|UniqueId=\XINCUUYP\IUOWHUOT|Kind=1|AlternatePart= 
+Variation10=Designator=L10|UniqueId=\XINCUUYP\LZGYJYDM|Kind=1|AlternatePart= 
+Variation11=Designator=C72|UniqueId=\XINCUUYP\QSDOEACG|Kind=1|AlternatePart= 
+Variation12=Designator=R8|UniqueId=\XINCUUYP\DRWTPKGW|Kind=1|AlternatePart= 
+Variation13=Designator=R30|UniqueId=\XINCUUYP\AFHFIPWO|Kind=1|AlternatePart= 
+Variation14=Designator=C24|UniqueId=\XINCUUYP\WJYSXKUO|Kind=1|AlternatePart= 
+Variation15=Designator=C60|UniqueId=\XINCUUYP\ZKOYVXWI|Kind=1|AlternatePart= 
+Variation16=Designator=C105|UniqueId=\XINCUUYP\ELAWCZDJ|Kind=1|AlternatePart= 
+Variation17=Designator=L3|UniqueId=\XINCUUYP\MDDHMDUU|Kind=1|AlternatePart= 
+Variation18=Designator=C7|UniqueId=\XINCUUYP\IYGXUXEM|Kind=1|AlternatePart= 
+Variation19=Designator=U1|UniqueId=\XINCUUYP\VGXRPMWL|Kind=1|AlternatePart= 
+Variation20=Designator=IC20|UniqueId=\XUTMALKY\GXUXAPSK|Kind=1|AlternatePart= 
+Variation21=Designator=R167|UniqueId=\XINCUUYP\SBFFOOYH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R167
-ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamVariation2=ParameterName=Case|VariantValue=0603
 ParamDesignator2=R167
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=R167
@@ -331,12 +325,15 @@ ParamVariation30=ParameterName=Status|VariantValue=Preferred
 ParamDesignator30=R167
 ParamVariation31=ParameterName=Value|VariantValue=0
 ParamDesignator31=R167
-Variation27=Designator=R76|UniqueId=\NCAWECZE\RQLWZYFX|Kind=1|AlternatePart= 
-Variation28=Designator=R78|UniqueId=\NCAWECZE\DMXZASMQ|Kind=1|AlternatePart= 
-Variation29=Designator=J5|UniqueId=\XZJZMZDJ|Kind=1|AlternatePart= 
-Variation30=Designator=R168|UniqueId=\DIGJIOTH|Kind=1|AlternatePart= 
-Variation31=Designator=R?|UniqueId=\HWFKLFZM|Kind=1|AlternatePart= 
-Variation32=Designator=D?|UniqueId=\ZUTRNGVN|Kind=1|AlternatePart= 
+Variation22=Designator=R76|UniqueId=\NCAWECZE\RQLWZYFX|Kind=1|AlternatePart= 
+Variation23=Designator=R78|UniqueId=\NCAWECZE\DMXZASMQ|Kind=1|AlternatePart= 
+Variation24=Designator=J5|UniqueId=\XZJZMZDJ|Kind=1|AlternatePart= 
+Variation25=Designator=R168|UniqueId=\DIGJIOTH|Kind=1|AlternatePart= 
+Variation26=Designator=R169|UniqueId=\HWFKLFZM|Kind=1|AlternatePart= 
+Variation27=Designator=D4|UniqueId=\ZUTRNGVN|Kind=1|AlternatePart= 
+Variation28=Designator=MSBOX1|UniqueId=\FZVONHEC|Kind=1|AlternatePart= 
+Variation29=Designator=MSBOXC1|UniqueId=\CQJMXMKW|Kind=1|AlternatePart= 
+Variation30=Designator=R11|UniqueId=\XINCUUYP\VHGDVXLE|Kind=1|AlternatePart= 
 ParamVariationCount=31
 
 [ProjectVariant2]
@@ -344,13 +341,13 @@ UniqueID=2AD28EB8-597D-481B-9C0D-0D359C2BD618
 Description=Wenzel
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
+VariationCount=20
 Variation1=Designator=OSC1|UniqueId=\NCAWECZE\BTFVDXRV|Kind=1|AlternatePart= 
 Variation2=Designator=C46|UniqueId=\NCAWECZE\KTVUMDWQ|Kind=1|AlternatePart= 
 Variation3=Designator=R6|UniqueId=\XINCUUYP\PAQTBBDY|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_10K_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case|VariantValue=0402
+ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R6
-ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamVariation2=ParameterName=Case|VariantValue=0402
 ParamDesignator2=R6
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=R6
@@ -416,12 +413,10 @@ ParamVariation33=ParameterName=Tolerance|VariantValue=±1%
 ParamDesignator33=R6
 ParamVariation34=ParameterName=Value|VariantValue=10k
 ParamDesignator34=R6
-Variation4=Designator=L17|UniqueId=\XINCUUYP\JVPIMXYF|Kind=0|AlternatePart= 
-Variation5=Designator=L18|UniqueId=\XINCUUYP\NIFQWCWZ|Kind=0|AlternatePart= 
-Variation6=Designator=R72|UniqueId=\XINCUUYP\PTCJHYJL|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
-ParamVariation35=ParameterName=Case|VariantValue=0603
+Variation4=Designator=R72|UniqueId=\XINCUUYP\PTCJHYJL|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
+ParamVariation35=ParameterName=Comment|VariantValue==Value
 ParamDesignator35=R72
-ParamVariation36=ParameterName=Comment|VariantValue==Value
+ParamVariation36=ParameterName=Case|VariantValue=0603
 ParamDesignator36=R72
 ParamVariation37=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator37=R72
@@ -481,10 +476,10 @@ ParamVariation64=ParameterName=Status|VariantValue=Preferred
 ParamDesignator64=R72
 ParamVariation65=ParameterName=Value|VariantValue=0
 ParamDesignator65=R72
-Variation7=Designator=R116|UniqueId=\XINCUUYP\WJHSNGBO|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_120K_1%_0.1W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
-ParamVariation66=ParameterName=Case|VariantValue=0603
+Variation5=Designator=R116|UniqueId=\XINCUUYP\WJHSNGBO|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_120K_1%_0.1W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
+ParamVariation66=ParameterName=Comment|VariantValue==Value
 ParamDesignator66=R116
-ParamVariation67=ParameterName=Comment|VariantValue==Value
+ParamVariation67=ParameterName=Case|VariantValue=0603
 ParamDesignator67=R116
 ParamVariation68=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator68=R116
@@ -550,10 +545,10 @@ ParamVariation98=ParameterName=Tolerance|VariantValue=±1%
 ParamDesignator98=R116
 ParamVariation99=ParameterName=Value|VariantValue=120k
 ParamDesignator99=R116
-Variation8=Designator=R51|UniqueId=\XINCUUYP\HKLOELZE|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_120K_1%_0.1W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
-ParamVariation100=ParameterName=Case|VariantValue=0603
+Variation6=Designator=R51|UniqueId=\XINCUUYP\HKLOELZE|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_120K_1%_0.1W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
+ParamVariation100=ParameterName=Comment|VariantValue==Value
 ParamDesignator100=R51
-ParamVariation101=ParameterName=Comment|VariantValue==Value
+ParamVariation101=ParameterName=Case|VariantValue=0603
 ParamDesignator101=R51
 ParamVariation102=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator102=R51
@@ -619,10 +614,10 @@ ParamVariation132=ParameterName=Tolerance|VariantValue=±1%
 ParamDesignator132=R51
 ParamVariation133=ParameterName=Value|VariantValue=120k
 ParamDesignator133=R51
-Variation9=Designator=R47|UniqueId=\XINCUUYP\YPGCQTPL|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_1K3_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation134=ParameterName=Case|VariantValue=0402
+Variation7=Designator=R47|UniqueId=\XINCUUYP\YPGCQTPL|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_1K3_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation134=ParameterName=Comment|VariantValue==Value
 ParamDesignator134=R47
-ParamVariation135=ParameterName=Comment|VariantValue==Value
+ParamVariation135=ParameterName=Case|VariantValue=0402
 ParamDesignator135=R47
 ParamVariation136=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator136=R47
@@ -688,10 +683,10 @@ ParamVariation166=ParameterName=Tolerance|VariantValue=±1%
 ParamDesignator166=R47
 ParamVariation167=ParameterName=Value|VariantValue=1k3
 ParamDesignator167=R47
-Variation10=Designator=R48|UniqueId=\XINCUUYP\EQKGDVWA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_47K_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation168=ParameterName=Case|VariantValue=0402
+Variation8=Designator=R48|UniqueId=\XINCUUYP\EQKGDVWA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_47K_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation168=ParameterName=Comment|VariantValue==Value
 ParamDesignator168=R48
-ParamVariation169=ParameterName=Comment|VariantValue==Value
+ParamVariation169=ParameterName=Case|VariantValue=0402
 ParamDesignator169=R48
 ParamVariation170=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator170=R48
@@ -757,16 +752,23 @@ ParamVariation200=ParameterName=Tolerance|VariantValue=±1%
 ParamDesignator200=R48
 ParamVariation201=ParameterName=Value|VariantValue=47k
 ParamDesignator201=R48
-Variation11=Designator=R167|UniqueId=\XINCUUYP\SBFFOOYH|Kind=1|AlternatePart= 
-Variation12=Designator=J10|UniqueId=\XINCUUYP\AAVKWXIT|Kind=1|AlternatePart= 
-Variation13=Designator=IC20|UniqueId=\XUTMALKY\GXUXAPSK|Kind=1|AlternatePart= 
-Variation14=Designator=R76|UniqueId=\NCAWECZE\RQLWZYFX|Kind=1|AlternatePart= 
-Variation15=Designator=R78|UniqueId=\NCAWECZE\DMXZASMQ|Kind=1|AlternatePart= 
-Variation16=Designator=J5|UniqueId=\XZJZMZDJ|Kind=1|AlternatePart= 
-Variation17=Designator=R168|UniqueId=\DIGJIOTH|Kind=1|AlternatePart= 
-Variation18=Designator=R?|UniqueId=\HWFKLFZM|Kind=1|AlternatePart= 
-Variation19=Designator=D?|UniqueId=\ZUTRNGVN|Kind=1|AlternatePart= 
+Variation9=Designator=R167|UniqueId=\XINCUUYP\SBFFOOYH|Kind=1|AlternatePart= 
+Variation10=Designator=J10|UniqueId=\XINCUUYP\AAVKWXIT|Kind=1|AlternatePart= 
+Variation11=Designator=IC20|UniqueId=\XUTMALKY\GXUXAPSK|Kind=1|AlternatePart= 
+Variation12=Designator=R76|UniqueId=\NCAWECZE\RQLWZYFX|Kind=1|AlternatePart= 
+Variation13=Designator=R78|UniqueId=\NCAWECZE\DMXZASMQ|Kind=1|AlternatePart= 
+Variation14=Designator=J5|UniqueId=\XZJZMZDJ|Kind=1|AlternatePart= 
+Variation15=Designator=R168|UniqueId=\DIGJIOTH|Kind=1|AlternatePart= 
+Variation16=Designator=R169|UniqueId=\HWFKLFZM|Kind=1|AlternatePart= 
+Variation17=Designator=D4|UniqueId=\ZUTRNGVN|Kind=1|AlternatePart= 
+Variation18=Designator=MSBOX1|UniqueId=\FZVONHEC|Kind=1|AlternatePart= 
+Variation19=Designator=MSBOXC1|UniqueId=\CQJMXMKW|Kind=1|AlternatePart= 
+Variation20=Designator=C40|UniqueId=\NCAWECZE\PEGBAXWC|Kind=1|AlternatePart= 
 ParamVariationCount=201
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Zotino\Design Rule Check - Wenzel_REF.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -896,22 +898,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -978,36 +970,12 @@ OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Harness Layout Drawing Print
-OutputName11=Harness Layout Drawing Prints
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Harness Wiring Diagram Print
-OutputName12=Harness Wiring Diagram Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=PCBDrawing
-OutputName13=Draftsman
-OutputDocumentPath13=
-OutputVariantName13=[No Variations]
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=PCBDrawing
-OutputName14=Draftsman
-OutputDocumentPath14=
-OutputVariantName14=[No Variations]
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=PDF3D MBA
-OutputName15=PDF3D MBA
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1106,7 +1074,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=SimpleBOM
 OutputName1=Simple BOM
@@ -1163,12 +1131,6 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1382,11 +1344,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1519,23 +1506,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
-Type121=1
-Type122=1
-Type123=1
-Type124=1
-Type125=1
-Type126=1
-Type127=1
-Type128=1
-Type129=1
-Type130=1
-Type131=1
-Type132=1
-Type133=1
-Type134=1
-Type135=1
-Type136=1
 
 [Difference Levels]
 Type1=1
@@ -1606,12 +1576,6 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
-Type69=1
-Type70=1
-Type71=1
-Type72=1
-Type73=1
-Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1740,31 +1704,6 @@ Type123=1
 Type124=1
 Type125=1
 Type126=1
-Type127=1
-Type128=2
-Type129=2
-Type130=2
-Type131=2
-Type132=2
-Type133=2
-Type134=2
-Type135=2
-Type136=2
-Type137=2
-Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=2
-Type148=2
-Type149=2
-Type150=2
-Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
