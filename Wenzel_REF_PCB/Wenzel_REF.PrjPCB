@@ -51,7 +51,41 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Supply_Wenzel.SchDoc
+DocumentPath=CPCIS_Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KWSWQJDJ
+
+[Document2]
+DocumentPath=EEM_Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VGBTAUBO
+
+[Document3]
+DocumentPath=Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJTJQIRP
 
-[Document2]
+[Document4]
 DocumentPath=Wenzel_REF.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYIWLANB
 
-[Document3]
+[Document5]
 DocumentPath=Wenzel_REF.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,25 +135,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYDWVJPF
 
-[Document4]
-DocumentPath=DIOT_Connectors_Wenzel.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RMUUFYQV
-
-[Document5]
-DocumentPath=EEM_connector_Wenzel.SchDoc
+[Document6]
+DocumentPath=Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,41 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJWOAGJC
 
-[Document6]
-DocumentPath=EEM_connector_Wenzel.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document7]
-DocumentPath=DIOT_Connectors_Wenzel.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
 DocumentPath=Clock_fanout.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLFOTTRZ
 
-[Document9]
+[Document8]
 DocumentPath=Clock_Generator_Divider.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,8 +186,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAHZYNSB
 
-[Document10]
-DocumentPath=DAC_Wenzel.SchDoc
+[Document9]
+DocumentPath=PLL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDFFOYQH
 
-[Document11]
+[Document10]
 DocumentPath=Wenzel_REF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,8 +220,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
-DocumentPath=EEM_connector_Wenzel.Harness
+[Document11]
+DocumentPath=Wenzel_REF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -248,14 +231,82 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VOAPCPPO
+
+[Document12]
+DocumentPath=Shield_Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HCJMELOV
 
 [Document13]
-DocumentPath=DIOT_Connectors_Wenzel.Harness
+DocumentPath=Shield_Connectors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=ETH_PHY.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BYXYXRYY
+
+[Document15]
+DocumentPath=ETH_PHY.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=CPCIS_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,33 +322,81 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document17]
+DocumentPath=EEM_Connectors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=Power_Supply.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=Drivers.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=Wenzel_Arduino.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KQCBPCAO
+
 [ProjectVariant1]
-UniqueID=2558F9DA-C9AE-43C5-9A9E-E53791504C3A
+UniqueId=2558F9DA-C9AE-43C5-9A9E-E53791504C3A
 Description=Pletronics
 AllowFabrication=0
 ParameterCount=0
-VariationCount=30
-Variation1=Designator=J2|UniqueId=\JPWEXVOQ\EUEACKES|Kind=1|AlternatePart= 
-Variation2=Designator=IC6|UniqueId=\JPWEXVOQ\FPFTOIHA|Kind=1|AlternatePart= 
-Variation3=Designator=J10|UniqueId=\XINCUUYP\AAVKWXIT|Kind=1|AlternatePart= 
-Variation4=Designator=OSC2|UniqueId=\NCAWECZE\XAOUOPEE|Kind=1|AlternatePart= 
-Variation5=Designator=C41|UniqueId=\NCAWECZE\DGVPCXFC|Kind=1|AlternatePart= 
-Variation6=Designator=C48|UniqueId=\NCAWECZE\XNBMUXES|Kind=1|AlternatePart= 
-Variation7=Designator=R72|UniqueId=\XINCUUYP\PTCJHYJL|Kind=1|AlternatePart= 
-Variation8=Designator=C125|UniqueId=\XINCUUYP\ESWNZXWT|Kind=1|AlternatePart= 
-Variation9=Designator=C124|UniqueId=\XINCUUYP\IUOWHUOT|Kind=1|AlternatePart= 
-Variation10=Designator=L10|UniqueId=\XINCUUYP\LZGYJYDM|Kind=1|AlternatePart= 
-Variation11=Designator=C72|UniqueId=\XINCUUYP\QSDOEACG|Kind=1|AlternatePart= 
-Variation12=Designator=R8|UniqueId=\XINCUUYP\DRWTPKGW|Kind=1|AlternatePart= 
-Variation13=Designator=R30|UniqueId=\XINCUUYP\AFHFIPWO|Kind=1|AlternatePart= 
-Variation14=Designator=C24|UniqueId=\XINCUUYP\WJYSXKUO|Kind=1|AlternatePart= 
-Variation15=Designator=C60|UniqueId=\XINCUUYP\ZKOYVXWI|Kind=1|AlternatePart= 
-Variation16=Designator=C105|UniqueId=\XINCUUYP\ELAWCZDJ|Kind=1|AlternatePart= 
-Variation17=Designator=L3|UniqueId=\XINCUUYP\MDDHMDUU|Kind=1|AlternatePart= 
-Variation18=Designator=C7|UniqueId=\XINCUUYP\IYGXUXEM|Kind=1|AlternatePart= 
-Variation19=Designator=U1|UniqueId=\XINCUUYP\VGXRPMWL|Kind=1|AlternatePart= 
-Variation20=Designator=IC20|UniqueId=\XUTMALKY\GXUXAPSK|Kind=1|AlternatePart= 
-Variation21=Designator=R167|UniqueId=\XINCUUYP\SBFFOOYH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
+VariationCount=37
+Variation1=Designator=R167|UniqueId=\KKNMEJGP\SBFFOOYH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=R0603_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R167
 ParamVariation2=ParameterName=Case|VariantValue=0603
@@ -316,7 +415,7 @@ ParamVariation8=ParameterName=Footprint|VariantValue=RESC1608X55N
 ParamDesignator8=R167
 ParamVariation9=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0603_NIC_NRC.pdf
 ParamDesignator9=R167
-ParamVariation10=ParameterName=Ibis Model|VariantValue= 
+ParamVariation10=ParameterName=Ibis Model|VariantValue=
 ParamDesignator10=R167
 ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=13.03.2008
 ParamDesignator11=R167
@@ -338,19 +437,19 @@ ParamVariation19=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Re
 ParamDesignator19=R167
 ParamVariation20=ParameterName=Part Number|VariantValue=R0603_0R_JUMPER
 ParamDesignator20=R167
-ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamVariation21=ParameterName=PCB3D|VariantValue=
 ParamDesignator21=R167
 ParamVariation22=ParameterName=Pin Count|VariantValue=2
 ParamDesignator22=R167
-ParamVariation23=ParameterName=Pin Info|VariantValue= 
+ParamVariation23=ParameterName=Pin Info|VariantValue=
 ParamDesignator23=R167
 ParamVariation24=ParameterName=PressFit|VariantValue=No
 ParamDesignator24=R167
 ParamVariation25=ParameterName=Sense|VariantValue=No
 ParamDesignator25=R167
-ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation26=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator26=R167
-ParamVariation27=ParameterName=Simulation|VariantValue= 
+ParamVariation27=ParameterName=Simulation|VariantValue=
 ParamDesignator27=R167
 ParamVariation28=ParameterName=SMD|VariantValue=Yes
 ParamDesignator28=R167
@@ -360,450 +459,133 @@ ParamVariation30=ParameterName=Status|VariantValue=Preferred
 ParamDesignator30=R167
 ParamVariation31=ParameterName=Value|VariantValue=0
 ParamDesignator31=R167
-Variation22=Designator=R76|UniqueId=\NCAWECZE\RQLWZYFX|Kind=1|AlternatePart= 
-Variation23=Designator=R78|UniqueId=\NCAWECZE\DMXZASMQ|Kind=1|AlternatePart= 
-Variation24=Designator=J5|UniqueId=\XZJZMZDJ|Kind=1|AlternatePart= 
-Variation25=Designator=R168|UniqueId=\DIGJIOTH|Kind=1|AlternatePart= 
-Variation26=Designator=R169|UniqueId=\HWFKLFZM|Kind=1|AlternatePart= 
-Variation27=Designator=D4|UniqueId=\ZUTRNGVN|Kind=1|AlternatePart= 
-Variation28=Designator=MSBOX1|UniqueId=\FZVONHEC|Kind=1|AlternatePart= 
-Variation29=Designator=MSBOXC1|UniqueId=\CQJMXMKW|Kind=1|AlternatePart= 
-Variation30=Designator=R11|UniqueId=\XINCUUYP\VHGDVXLE|Kind=1|AlternatePart= 
-ParamVariationCount=31
-
-[ProjectVariant2]
-UniqueID=2AD28EB8-597D-481B-9C0D-0D359C2BD618
-Description=Wenzel
-AllowFabrication=0
-ParameterCount=0
-VariationCount=20
-Variation1=Designator=OSC1|UniqueId=\NCAWECZE\BTFVDXRV|Kind=1|AlternatePart= 
-Variation2=Designator=C46|UniqueId=\NCAWECZE\KTVUMDWQ|Kind=1|AlternatePart= 
-Variation3=Designator=R6|UniqueId=\XINCUUYP\PAQTBBDY|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_10K_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R6
-ParamVariation2=ParameterName=Case|VariantValue=0402
-ParamDesignator2=R6
-ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator3=R6
-ParamVariation4=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator4=R6
-ParamVariation5=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator5=R6
-ParamVariation6=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator6=R6
-ParamVariation7=ParameterName=Description|VariantValue=Resistor - 1%
-ParamDesignator7=R6
-ParamVariation8=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator8=R6
-ParamVariation9=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator9=R6
-ParamVariation10=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator10=R6
-ParamVariation11=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator11=R6
-ParamVariation12=ParameterName=Library Reference|VariantValue=R0402_10K_1%_0.0625W_100PPM
-ParamDesignator12=R6
-ParamVariation13=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator13=R6
-ParamVariation14=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
-ParamDesignator14=R6
-ParamVariation15=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
-ParamDesignator15=R6
-ParamVariation16=ParameterName=Manufacturer1 Part Number|VariantValue=232270671003L
-ParamDesignator16=R6
-ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=R0402_10K_1%_0.0625W_100PPM
-ParamDesignator17=R6
-ParamVariation18=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator18=R6
-ParamVariation19=ParameterName=Part Description|VariantValue=General Purpose Thick Film Chip Resistor
-ParamDesignator19=R6
-ParamVariation20=ParameterName=Part Number|VariantValue=R0402_10K_1%_0.0625W_100PPM
-ParamDesignator20=R6
-ParamVariation21=ParameterName=PCB3D|VariantValue= 
-ParamDesignator21=R6
-ParamVariation22=ParameterName=Pin Count|VariantValue=2
-ParamDesignator22=R6
-ParamVariation23=ParameterName=Pin Info|VariantValue= 
-ParamDesignator23=R6
-ParamVariation24=ParameterName=Power|VariantValue=0.0625W
-ParamDesignator24=R6
-ParamVariation25=ParameterName=PressFit|VariantValue=No
-ParamDesignator25=R6
-ParamVariation26=ParameterName=Sense|VariantValue=No
-ParamDesignator26=R6
-ParamVariation27=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator27=R6
-ParamVariation28=ParameterName=Simulation|VariantValue= 
-ParamDesignator28=R6
-ParamVariation29=ParameterName=SMD|VariantValue=Yes
-ParamDesignator29=R6
-ParamVariation30=ParameterName=Socket|VariantValue=No
-ParamDesignator30=R6
-ParamVariation31=ParameterName=Status|VariantValue=Not Recommended
-ParamDesignator31=R6
-ParamVariation32=ParameterName=TC|VariantValue=±100ppm/°C
-ParamDesignator32=R6
-ParamVariation33=ParameterName=Tolerance|VariantValue=±1%
-ParamDesignator33=R6
-ParamVariation34=ParameterName=Value|VariantValue=10k
-ParamDesignator34=R6
-Variation4=Designator=R72|UniqueId=\XINCUUYP\PTCJHYJL|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
-ParamVariation35=ParameterName=Comment|VariantValue==Value
-ParamDesignator35=R72
-ParamVariation36=ParameterName=Case|VariantValue=0603
-ParamDesignator36=R72
-ParamVariation37=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator37=R72
-ParamVariation38=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator38=R72
-ParamVariation39=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator39=R72
-ParamVariation40=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator40=R72
-ParamVariation41=ParameterName=Description|VariantValue=Resistor
-ParamDesignator41=R72
-ParamVariation42=ParameterName=Footprint|VariantValue=RESC1608X55N
-ParamDesignator42=R72
-ParamVariation43=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0603_NIC_NRC.pdf
-ParamDesignator43=R72
-ParamVariation44=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator44=R72
-ParamVariation45=ParameterName=LatestRevisionDate|VariantValue=13.03.2008
-ParamDesignator45=R72
-ParamVariation46=ParameterName=Library Reference|VariantValue=R0603_0R_JUMPER
-ParamDesignator46=R72
-ParamVariation47=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator47=R72
-ParamVariation48=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.55mm
-ParamDesignator48=R72
-ParamVariation49=ParameterName=Manufacturer1 Example|VariantValue=NIC COMPONENT
-ParamDesignator49=R72
-ParamVariation50=ParameterName=Manufacturer1 Part Number|VariantValue=NRC06Z0
-ParamDesignator50=R72
-ParamVariation51=ParameterName=Manufacturer Part Number|VariantValue=R0603_0R_JUMPER
-ParamDesignator51=R72
-ParamVariation52=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator52=R72
-ParamVariation53=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
-ParamDesignator53=R72
-ParamVariation54=ParameterName=Part Number|VariantValue=R0603_0R_JUMPER
-ParamDesignator54=R72
-ParamVariation55=ParameterName=PCB3D|VariantValue= 
-ParamDesignator55=R72
-ParamVariation56=ParameterName=Pin Count|VariantValue=2
-ParamDesignator56=R72
-ParamVariation57=ParameterName=Pin Info|VariantValue= 
-ParamDesignator57=R72
-ParamVariation58=ParameterName=PressFit|VariantValue=No
-ParamDesignator58=R72
-ParamVariation59=ParameterName=Sense|VariantValue=No
-ParamDesignator59=R72
-ParamVariation60=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator60=R72
-ParamVariation61=ParameterName=Simulation|VariantValue= 
-ParamDesignator61=R72
-ParamVariation62=ParameterName=SMD|VariantValue=Yes
-ParamDesignator62=R72
-ParamVariation63=ParameterName=Socket|VariantValue=No
-ParamDesignator63=R72
-ParamVariation64=ParameterName=Status|VariantValue=Preferred
-ParamDesignator64=R72
-ParamVariation65=ParameterName=Value|VariantValue=0
-ParamDesignator65=R72
-Variation5=Designator=R116|UniqueId=\XINCUUYP\WJHSNGBO|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_120K_1%_0.1W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
+Variation2=Designator=IC43|UniqueId=\SSWYCQUD\YPDCFPNC|Kind=1|AlternatePart==Device
+ParamVariation32=ParameterName=Comment|VariantValue==Device
+ParamDesignator32=IC43
+Variation3=Designator=IC42|UniqueId=\SSWYCQUD\QOMPDNIG|Kind=1|AlternatePart==Device
+ParamVariation33=ParameterName=Comment|VariantValue==Device
+ParamDesignator33=IC42
+Variation4=Designator=IC4|UniqueId=\KKNMEJGP\MFHOTBCU|Kind=1|AlternatePart==Device
+ParamVariation34=ParameterName=Comment|VariantValue==Device
+ParamDesignator34=IC4
+Variation5=Designator=J5|UniqueId=\KKNMEJGP\AAVKWXIT|Kind=1|AlternatePart==Family
+ParamVariation35=ParameterName=Comment|VariantValue==Family
+ParamDesignator35=J5
+Variation6=Designator=R234|UniqueId=\CXNHGVJO\XIRNBAMV|Kind=1|AlternatePart==Value
+ParamVariation36=ParameterName=Comment|VariantValue==Value
+ParamDesignator36=R234
+Variation7=Designator=R235|UniqueId=\CXNHGVJO\PLBKLSIY|Kind=1|AlternatePart==Value
+ParamVariation37=ParameterName=Comment|VariantValue==Value
+ParamDesignator37=R235
+Variation8=Designator=C140|UniqueId=\FWXQYNPN|Kind=1|AlternatePart==Value
+ParamVariation38=ParameterName=Comment|VariantValue==Value
+ParamDesignator38=C140
+Variation9=Designator=CON2|UniqueId=\DEVNPGLM\MACIQZFN|Kind=1|AlternatePart=
+Variation10=Designator=C64|UniqueId=\YCYIYXLL\ULIXCBXH|Kind=1|AlternatePart==Value
+ParamVariation39=ParameterName=Comment|VariantValue==Value
+ParamDesignator39=C64
+Variation11=Designator=C66|UniqueId=\YCYIYXLL\QKVVFTPN|Kind=1|AlternatePart==Value
+ParamVariation40=ParameterName=Comment|VariantValue==Value
+ParamDesignator40=C66
+Variation12=Designator=R76|UniqueId=\NCAWECZE\RQLWZYFX|Kind=1|AlternatePart==Value
+ParamVariation41=ParameterName=Comment|VariantValue==Value
+ParamDesignator41=R76
+Variation13=Designator=R98|UniqueId=\NCAWECZE\WGIFESGU|Kind=1|AlternatePart==Value
+ParamVariation42=ParameterName=Comment|VariantValue==Value
+ParamDesignator42=R98
+Variation14=Designator=R134|UniqueId=\NCAWECZE\KYRUJNER|Kind=1|AlternatePart==Value
+ParamVariation43=ParameterName=Comment|VariantValue==Value
+ParamDesignator43=R134
+Variation15=Designator=R132|UniqueId=\NCAWECZE\WOIACHLI|Kind=1|AlternatePart==Value
+ParamVariation44=ParameterName=Comment|VariantValue==Value
+ParamDesignator44=R132
+Variation16=Designator=R168|UniqueId=\DIGJIOTH|Kind=1|AlternatePart==Value
+ParamVariation45=ParameterName=Comment|VariantValue==Value
+ParamDesignator45=R168
+Variation17=Designator=R110|UniqueId=\NCAWECZE\LDIAZUKQ|Kind=1|AlternatePart==Value
+ParamVariation46=ParameterName=Comment|VariantValue==Value
+ParamDesignator46=R110
+Variation18=Designator=R109|UniqueId=\NCAWECZE\DHEQFNUD|Kind=1|AlternatePart==Value
+ParamVariation47=ParameterName=Comment|VariantValue==Value
+ParamDesignator47=R109
+Variation19=Designator=R108|UniqueId=\NCAWECZE\DOARGWQV|Kind=1|AlternatePart==Value
+ParamVariation48=ParameterName=Comment|VariantValue==Value
+ParamDesignator48=R108
+Variation20=Designator=R106|UniqueId=\NCAWECZE\ELFTBBSC|Kind=1|AlternatePart==Value
+ParamVariation49=ParameterName=Comment|VariantValue==Value
+ParamDesignator49=R106
+Variation21=Designator=R104|UniqueId=\NCAWECZE\OFXPNEPN|Kind=1|AlternatePart==Value
+ParamVariation50=ParameterName=Comment|VariantValue==Value
+ParamDesignator50=R104
+Variation22=Designator=R103|UniqueId=\NCAWECZE\OSBHOTVT|Kind=1|AlternatePart==Value
+ParamVariation51=ParameterName=Comment|VariantValue==Value
+ParamDesignator51=R103
+Variation23=Designator=R102|UniqueId=\NCAWECZE\CEAXOMEC|Kind=1|AlternatePart==Value
+ParamVariation52=ParameterName=Comment|VariantValue==Value
+ParamDesignator52=R102
+Variation24=Designator=R97|UniqueId=\NCAWECZE\TFCWYFJR|Kind=1|AlternatePart==Value
+ParamVariation53=ParameterName=Comment|VariantValue==Value
+ParamDesignator53=R97
+Variation25=Designator=R95|UniqueId=\NCAWECZE\XSEKVNIU|Kind=1|AlternatePart==Value
+ParamVariation54=ParameterName=Comment|VariantValue==Value
+ParamDesignator54=R95
+Variation26=Designator=R94|UniqueId=\NCAWECZE\JZHSQBUI|Kind=1|AlternatePart==Value
+ParamVariation55=ParameterName=Comment|VariantValue==Value
+ParamDesignator55=R94
+Variation27=Designator=R91|UniqueId=\NCAWECZE\HLWDGVZK|Kind=1|AlternatePart==Value
+ParamVariation56=ParameterName=Comment|VariantValue==Value
+ParamDesignator56=R91
+Variation28=Designator=R90|UniqueId=\NCAWECZE\QQRDDCMB|Kind=1|AlternatePart==Value
+ParamVariation57=ParameterName=Comment|VariantValue==Value
+ParamDesignator57=R90
+Variation29=Designator=R89|UniqueId=\NCAWECZE\QVNBDLNP|Kind=1|AlternatePart==Value
+ParamVariation58=ParameterName=Comment|VariantValue==Value
+ParamDesignator58=R89
+Variation30=Designator=R87|UniqueId=\NCAWECZE\XWGCJFOH|Kind=1|AlternatePart==Value
+ParamVariation59=ParameterName=Comment|VariantValue==Value
+ParamDesignator59=R87
+Variation31=Designator=R86|UniqueId=\NCAWECZE\CHZINGHV|Kind=1|AlternatePart==Value
+ParamVariation60=ParameterName=Comment|VariantValue==Value
+ParamDesignator60=R86
+Variation32=Designator=R84|UniqueId=\NCAWECZE\HLGHZIMV|Kind=1|AlternatePart==Value
+ParamVariation61=ParameterName=Comment|VariantValue==Value
+ParamDesignator61=R84
+Variation33=Designator=R83|UniqueId=\NCAWECZE\HRUDPYXC|Kind=1|AlternatePart==Value
+ParamVariation62=ParameterName=Comment|VariantValue==Value
+ParamDesignator62=R83
+Variation34=Designator=R78|UniqueId=\NCAWECZE\DMXZASMQ|Kind=1|AlternatePart==Value
+ParamVariation63=ParameterName=Comment|VariantValue==Value
+ParamDesignator63=R78
+Variation35=Designator=R120|UniqueId=\NCAWECZE\RXTLFVDC|Kind=1|AlternatePart==Value
+ParamVariation64=ParameterName=Comment|VariantValue==Value
+ParamDesignator64=R120
+Variation36=Designator=R115|UniqueId=\NCAWECZE\SEBFMUNQ|Kind=1|AlternatePart==Value
+ParamVariation65=ParameterName=Comment|VariantValue==Value
+ParamDesignator65=R115
+Variation37=Designator=R112|UniqueId=\NCAWECZE\UQNCUGPT|Kind=1|AlternatePart==Value
 ParamVariation66=ParameterName=Comment|VariantValue==Value
-ParamDesignator66=R116
-ParamVariation67=ParameterName=Case|VariantValue=0603
-ParamDesignator67=R116
-ParamVariation68=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator68=R116
-ParamVariation69=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator69=R116
-ParamVariation70=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator70=R116
-ParamVariation71=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator71=R116
-ParamVariation72=ParameterName=Description|VariantValue=Resistor - 1%
-ParamDesignator72=R116
-ParamVariation73=ParameterName=Footprint|VariantValue=RESC1608X55N
-ParamDesignator73=R116
-ParamVariation74=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0603_NIC_NRC.pdf
-ParamDesignator74=R116
-ParamVariation75=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator75=R116
-ParamVariation76=ParameterName=LatestRevisionDate|VariantValue=13.03.2008
-ParamDesignator76=R116
-ParamVariation77=ParameterName=Library Reference|VariantValue=R0603_120K_1%_0.1W_100PPM
-ParamDesignator77=R116
-ParamVariation78=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator78=R116
-ParamVariation79=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.55mm
-ParamDesignator79=R116
-ParamVariation80=ParameterName=Manufacturer1 Example|VariantValue=NIC COMPONENT
-ParamDesignator80=R116
-ParamVariation81=ParameterName=Manufacturer1 Part Number|VariantValue=NRC06F1203TRF
-ParamDesignator81=R116
-ParamVariation82=ParameterName=Manufacturer Part Number|VariantValue=R0603_120K_1%_0.1W_100PPM
-ParamDesignator82=R116
-ParamVariation83=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator83=R116
-ParamVariation84=ParameterName=Part Description|VariantValue=General Purpose Thick Film Chip Resistor
-ParamDesignator84=R116
-ParamVariation85=ParameterName=Part Number|VariantValue=R0603_120K_1%_0.1W_100PPM
-ParamDesignator85=R116
-ParamVariation86=ParameterName=PCB3D|VariantValue= 
-ParamDesignator86=R116
-ParamVariation87=ParameterName=Pin Count|VariantValue=2
-ParamDesignator87=R116
-ParamVariation88=ParameterName=Pin Info|VariantValue= 
-ParamDesignator88=R116
-ParamVariation89=ParameterName=Power|VariantValue=0.1W
-ParamDesignator89=R116
-ParamVariation90=ParameterName=PressFit|VariantValue=No
-ParamDesignator90=R116
-ParamVariation91=ParameterName=Sense|VariantValue=No
-ParamDesignator91=R116
-ParamVariation92=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator92=R116
-ParamVariation93=ParameterName=Simulation|VariantValue= 
-ParamDesignator93=R116
-ParamVariation94=ParameterName=SMD|VariantValue=Yes
-ParamDesignator94=R116
-ParamVariation95=ParameterName=Socket|VariantValue=No
-ParamDesignator95=R116
-ParamVariation96=ParameterName=Status|VariantValue=Preferred
-ParamDesignator96=R116
-ParamVariation97=ParameterName=TC|VariantValue=±100ppm/°C
-ParamDesignator97=R116
-ParamVariation98=ParameterName=Tolerance|VariantValue=±1%
-ParamDesignator98=R116
-ParamVariation99=ParameterName=Value|VariantValue=120k
-ParamDesignator99=R116
-Variation6=Designator=R51|UniqueId=\XINCUUYP\HKLOELZE|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0603_120K_1%_0.1W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
-ParamVariation100=ParameterName=Comment|VariantValue==Value
-ParamDesignator100=R51
-ParamVariation101=ParameterName=Case|VariantValue=0603
-ParamDesignator101=R51
-ParamVariation102=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator102=R51
-ParamVariation103=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator103=R51
-ParamVariation104=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator104=R51
-ParamVariation105=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator105=R51
-ParamVariation106=ParameterName=Description|VariantValue=Resistor - 1%
-ParamDesignator106=R51
-ParamVariation107=ParameterName=Footprint|VariantValue=RESC1608X55N
-ParamDesignator107=R51
-ParamVariation108=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0603_NIC_NRC.pdf
-ParamDesignator108=R51
-ParamVariation109=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator109=R51
-ParamVariation110=ParameterName=LatestRevisionDate|VariantValue=13.03.2008
-ParamDesignator110=R51
-ParamVariation111=ParameterName=Library Reference|VariantValue=R0603_120K_1%_0.1W_100PPM
-ParamDesignator111=R51
-ParamVariation112=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator112=R51
-ParamVariation113=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.55mm
-ParamDesignator113=R51
-ParamVariation114=ParameterName=Manufacturer1 Example|VariantValue=NIC COMPONENT
-ParamDesignator114=R51
-ParamVariation115=ParameterName=Manufacturer1 Part Number|VariantValue=NRC06F1203TRF
-ParamDesignator115=R51
-ParamVariation116=ParameterName=Manufacturer Part Number|VariantValue=R0603_120K_1%_0.1W_100PPM
-ParamDesignator116=R51
-ParamVariation117=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator117=R51
-ParamVariation118=ParameterName=Part Description|VariantValue=General Purpose Thick Film Chip Resistor
-ParamDesignator118=R51
-ParamVariation119=ParameterName=Part Number|VariantValue=R0603_120K_1%_0.1W_100PPM
-ParamDesignator119=R51
-ParamVariation120=ParameterName=PCB3D|VariantValue= 
-ParamDesignator120=R51
-ParamVariation121=ParameterName=Pin Count|VariantValue=2
-ParamDesignator121=R51
-ParamVariation122=ParameterName=Pin Info|VariantValue= 
-ParamDesignator122=R51
-ParamVariation123=ParameterName=Power|VariantValue=0.1W
-ParamDesignator123=R51
-ParamVariation124=ParameterName=PressFit|VariantValue=No
-ParamDesignator124=R51
-ParamVariation125=ParameterName=Sense|VariantValue=No
-ParamDesignator125=R51
-ParamVariation126=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator126=R51
-ParamVariation127=ParameterName=Simulation|VariantValue= 
-ParamDesignator127=R51
-ParamVariation128=ParameterName=SMD|VariantValue=Yes
-ParamDesignator128=R51
-ParamVariation129=ParameterName=Socket|VariantValue=No
-ParamDesignator129=R51
-ParamVariation130=ParameterName=Status|VariantValue=Preferred
-ParamDesignator130=R51
-ParamVariation131=ParameterName=TC|VariantValue=±100ppm/°C
-ParamDesignator131=R51
-ParamVariation132=ParameterName=Tolerance|VariantValue=±1%
-ParamDesignator132=R51
-ParamVariation133=ParameterName=Value|VariantValue=120k
-ParamDesignator133=R51
-Variation7=Designator=R47|UniqueId=\XINCUUYP\YPGCQTPL|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_1K3_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation134=ParameterName=Comment|VariantValue==Value
-ParamDesignator134=R47
-ParamVariation135=ParameterName=Case|VariantValue=0402
-ParamDesignator135=R47
-ParamVariation136=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator136=R47
-ParamVariation137=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator137=R47
-ParamVariation138=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator138=R47
-ParamVariation139=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator139=R47
-ParamVariation140=ParameterName=Description|VariantValue=Resistor - 1%
-ParamDesignator140=R47
-ParamVariation141=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator141=R47
-ParamVariation142=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator142=R47
-ParamVariation143=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator143=R47
-ParamVariation144=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator144=R47
-ParamVariation145=ParameterName=Library Reference|VariantValue=R0402_1K3_1%_0.0625W_100PPM
-ParamDesignator145=R47
-ParamVariation146=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator146=R47
-ParamVariation147=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
-ParamDesignator147=R47
-ParamVariation148=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
-ParamDesignator148=R47
-ParamVariation149=ParameterName=Manufacturer1 Part Number|VariantValue=232270671302L
-ParamDesignator149=R47
-ParamVariation150=ParameterName=Manufacturer Part Number|VariantValue=R0402_1K3_1%_0.0625W_100PPM
-ParamDesignator150=R47
-ParamVariation151=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator151=R47
-ParamVariation152=ParameterName=Part Description|VariantValue=General Purpose Thick Film Chip Resistor
-ParamDesignator152=R47
-ParamVariation153=ParameterName=Part Number|VariantValue=R0402_1K3_1%_0.0625W_100PPM
-ParamDesignator153=R47
-ParamVariation154=ParameterName=PCB3D|VariantValue= 
-ParamDesignator154=R47
-ParamVariation155=ParameterName=Pin Count|VariantValue=2
-ParamDesignator155=R47
-ParamVariation156=ParameterName=Pin Info|VariantValue= 
-ParamDesignator156=R47
-ParamVariation157=ParameterName=Power|VariantValue=0.0625W
-ParamDesignator157=R47
-ParamVariation158=ParameterName=PressFit|VariantValue=No
-ParamDesignator158=R47
-ParamVariation159=ParameterName=Sense|VariantValue=No
-ParamDesignator159=R47
-ParamVariation160=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator160=R47
-ParamVariation161=ParameterName=Simulation|VariantValue= 
-ParamDesignator161=R47
-ParamVariation162=ParameterName=SMD|VariantValue=Yes
-ParamDesignator162=R47
-ParamVariation163=ParameterName=Socket|VariantValue=No
-ParamDesignator163=R47
-ParamVariation164=ParameterName=Status|VariantValue=Not Recommended
-ParamDesignator164=R47
-ParamVariation165=ParameterName=TC|VariantValue=±100ppm/°C
-ParamDesignator165=R47
-ParamVariation166=ParameterName=Tolerance|VariantValue=±1%
-ParamDesignator166=R47
-ParamVariation167=ParameterName=Value|VariantValue=1k3
-ParamDesignator167=R47
-Variation8=Designator=R48|UniqueId=\XINCUUYP\EQKGDVWA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R0402_47K_1%_0.0625W_100PPM|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
-ParamVariation168=ParameterName=Comment|VariantValue==Value
-ParamDesignator168=R48
-ParamVariation169=ParameterName=Case|VariantValue=0402
-ParamDesignator169=R48
-ParamVariation170=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator170=R48
-ParamVariation171=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator171=R48
-ParamVariation172=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator172=R48
-ParamVariation173=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator173=R48
-ParamVariation174=ParameterName=Description|VariantValue=Resistor - 1%
-ParamDesignator174=R48
-ParamVariation175=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator175=R48
-ParamVariation176=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator176=R48
-ParamVariation177=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator177=R48
-ParamVariation178=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator178=R48
-ParamVariation179=ParameterName=Library Reference|VariantValue=R0402_47K_1%_0.0625W_100PPM
-ParamDesignator179=R48
-ParamVariation180=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator180=R48
-ParamVariation181=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
-ParamDesignator181=R48
-ParamVariation182=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
-ParamDesignator182=R48
-ParamVariation183=ParameterName=Manufacturer1 Part Number|VariantValue=232270674703L
-ParamDesignator183=R48
-ParamVariation184=ParameterName=Manufacturer Part Number|VariantValue=R0402_47K_1%_0.0625W_100PPM
-ParamDesignator184=R48
-ParamVariation185=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator185=R48
-ParamVariation186=ParameterName=Part Description|VariantValue=General Purpose Thick Film Chip Resistor
-ParamDesignator186=R48
-ParamVariation187=ParameterName=Part Number|VariantValue=R0402_47K_1%_0.0625W_100PPM
-ParamDesignator187=R48
-ParamVariation188=ParameterName=PCB3D|VariantValue= 
-ParamDesignator188=R48
-ParamVariation189=ParameterName=Pin Count|VariantValue=2
-ParamDesignator189=R48
-ParamVariation190=ParameterName=Pin Info|VariantValue= 
-ParamDesignator190=R48
-ParamVariation191=ParameterName=Power|VariantValue=0.0625W
-ParamDesignator191=R48
-ParamVariation192=ParameterName=PressFit|VariantValue=No
-ParamDesignator192=R48
-ParamVariation193=ParameterName=Sense|VariantValue=No
-ParamDesignator193=R48
-ParamVariation194=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator194=R48
-ParamVariation195=ParameterName=Simulation|VariantValue= 
-ParamDesignator195=R48
-ParamVariation196=ParameterName=SMD|VariantValue=Yes
-ParamDesignator196=R48
-ParamVariation197=ParameterName=Socket|VariantValue=No
-ParamDesignator197=R48
-ParamVariation198=ParameterName=Status|VariantValue=Not Recommended
-ParamDesignator198=R48
-ParamVariation199=ParameterName=TC|VariantValue=±100ppm/°C
-ParamDesignator199=R48
-ParamVariation200=ParameterName=Tolerance|VariantValue=±1%
-ParamDesignator200=R48
-ParamVariation201=ParameterName=Value|VariantValue=47k
-ParamDesignator201=R48
-Variation9=Designator=R167|UniqueId=\XINCUUYP\SBFFOOYH|Kind=1|AlternatePart= 
-Variation10=Designator=J10|UniqueId=\XINCUUYP\AAVKWXIT|Kind=1|AlternatePart= 
-Variation11=Designator=IC20|UniqueId=\XUTMALKY\GXUXAPSK|Kind=1|AlternatePart= 
-Variation12=Designator=R76|UniqueId=\NCAWECZE\RQLWZYFX|Kind=1|AlternatePart= 
-Variation13=Designator=R78|UniqueId=\NCAWECZE\DMXZASMQ|Kind=1|AlternatePart= 
-Variation14=Designator=J5|UniqueId=\XZJZMZDJ|Kind=1|AlternatePart= 
-Variation15=Designator=R168|UniqueId=\DIGJIOTH|Kind=1|AlternatePart= 
-Variation16=Designator=R169|UniqueId=\HWFKLFZM|Kind=1|AlternatePart= 
-Variation17=Designator=D4|UniqueId=\ZUTRNGVN|Kind=1|AlternatePart= 
-Variation18=Designator=MSBOX1|UniqueId=\FZVONHEC|Kind=1|AlternatePart= 
-Variation19=Designator=MSBOXC1|UniqueId=\CQJMXMKW|Kind=1|AlternatePart= 
-Variation20=Designator=C40|UniqueId=\NCAWECZE\PEGBAXWC|Kind=1|AlternatePart= 
-ParamVariationCount=201
+ParamDesignator66=R112
+ParamVariationCount=66
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Zotino\Design Rule Check - Wenzel_REF.html
 DItemRevisionGUID=
+
+[Parameter1]
+Name=CheckedBy
+Value=K.Belewicz
+
+[Parameter2]
+Name=Project
+Value=Wenzel
+
+[Parameter3]
+Name=ProjectRev
+Value=2.0
+
+[Parameter4]
+Name=SheetTitle_Top
+Value=Wenzel-class Freq. Reference
 
 [Configuration1]
 Name=Default Configuration
@@ -942,7 +724,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP LaserJet Professional P1102
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1003,48 +785,36 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType9=PCBDrawing
-OutputName9=Draftsman
+OutputType9=Harness Layout Drawing Print
+OutputName9=Harness Layout Drawing Prints
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PDF3D
-OutputName10=PDF3D
+OutputType10=Harness Wiring Diagram Print
+OutputName10=Harness Wiring Diagram Prints
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
+OutputType11=PCBDrawing
+OutputName11=Draftsman
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
+OutputType12=PDF3D
+OutputName12=PDF3D
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
+OutputType13=PDF3D MBA
+OutputName13=PDF3D MBA
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=PCBDrawing
-OutputName14=Draftsman
-OutputDocumentPath14=
-OutputVariantName14=[No Variations]
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=PCBDrawing
-OutputName15=Draftsman
-OutputDocumentPath15=
-OutputVariantName15=[No Variations]
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1067,6 +837,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1218,102 +993,6 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType2=Text Print
-OutputName2=Text Print
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Text Print
-OutputName3=Text Print
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Text Print
-OutputName4=Text Print
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Text Print
-OutputName5=Text Print
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=Text Print
-OutputName6=Text Print
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=Text Print
-OutputName7=Text Print
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=Text Print
-OutputName8=Text Print
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Text Print
-OutputName9=Text Print
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Text Print
-OutputName10=Text Print
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Text Print
-OutputName11=Text Print
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Text Print
-OutputName12=Text Print
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Text Print
-OutputName13=Text Print
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=Text Print
-OutputName14=Text Print
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=Text Print
-OutputName15=Text Print
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType16=Text Print
-OutputName16=Text Print
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType17=Text Print
-OutputName17=Text Print
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -1419,11 +1098,41 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=MathWorks
+OutputName17=MathWorks (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=Web ReviewOutputName
+OutputName18=Web Review Data
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1573,6 +1282,20 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
 
 [Difference Levels]
 Type1=1
@@ -1649,6 +1372,13 @@ Type71=1
 Type72=1
 Type73=1
 Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1802,6 +1532,9 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
+Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
